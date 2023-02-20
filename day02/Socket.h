@@ -12,6 +12,6 @@ public:
 
     void bind(InetAddress*);
     void listen();
-    void accept(InetAddress*);
+    int accept(InetAddress*);
     void getFd();
 };
