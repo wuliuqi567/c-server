@@ -8,7 +8,7 @@
 
 #include <cstring>
 
-#include "Channel.h"
+#include "include/Channel.h"
 #include "util.h"
 
 #define MAX_EVENTS 1000
